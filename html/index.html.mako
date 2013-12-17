@@ -1,0 +1,1 @@
+<%inherit file="/layouts.mako/html.html" />
