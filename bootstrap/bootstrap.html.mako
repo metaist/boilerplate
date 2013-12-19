@@ -10,4 +10,3 @@
 
 }(jQuery));
 </script>
-</body></html>
